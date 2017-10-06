@@ -17,3 +17,7 @@ function divSelector(){
   var divs = $(".pics");
   return divs;
 }
+
+function firstListItem(){
+  var firstChild = $("#pic-list:first-child");
+}
